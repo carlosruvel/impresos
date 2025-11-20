@@ -1,0 +1,20 @@
+{
+  "carlos_rvm": {
+    "password": "daa7994b8729d4888f2ff5760f88b23ba990224f1c98beecfa92a4347a1a1d53",
+    "role": "admin",
+    "nombre": "",
+    "apellidos": "",
+    "email": "",
+    "telefono": "",
+    "pais": ""
+  },
+  "carlos.ruvel": {
+    "password": "119ed9e5313771f1fee0bad743953bd62ed561e63ee9b8e8197884149f4dfc4b",
+    "role": "user",
+    "nombre": "",
+    "apellidos": "",
+    "email": "",
+    "telefono": "",
+    "pais": ""
+  }
+}
